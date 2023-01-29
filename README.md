@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# Gericht :fork_and_knife:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This React restaurant website is a project created to showcase and practice my skills in React.js. The website features a homepage displaying information about the restaurant, including its location, hours of operation, and menu items. Users can also view the restaurant's menu, make reservations, and contact the restaurant through the website. The website has been built using React, and other technologies such as HTML, CSS, and JavaScript. The website is responsive and optimized for all screen sizes. Feel free to explore and let me know any feedback or suggestions.
 
-## Available Scripts
+## Built With
+- [ReactJs](https://beta.reactjs.org)
+- [Netlify](https://www.netlify.com)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-In the project directory, you can run:
+## Live
+[![Netlify Status](https://api.netlify.com/api/v1/badges/19097ea7-cb1a-4180-96d9-c02cd931b084/deploy-status)](https://app.netlify.com/sites/imrangericht/deploys)
+- [Gericht](https://imrangericht.netlify.app/)
 
-### `npm start`
+![image](https://user-images.githubusercontent.com/74467681/215309891-35f0e45a-db3f-4c37-bdce-99cbb4bf540c.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Getting Started
+- download or clone the repository
+- run `npm install`
+- run `npm run dev`
+> you can now further enhance the project or build your own
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Approach
+I adopted the `BEM` naming style for my css class names. React components was the concept mostly used
 
-### `npm test`
+## Author
+:bust_in_silhouette: Author
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Github: [@Barissa-Imran](https://github.com/Barissa-Imran)
 
-### `npm run build`
+## :handshake: Contributing
+Contibutions, issues and feature requests are welcome!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Feel free to check the [issues page](https://github.com/Barissa-Imran/react-restaurant/issues)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Show your support
+Give a :star: if you like this project!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Acknowledgment
+I hereby acknowledge [JavaScript Mastery](https://www.youtube.com/watch?v=_oO4Qi5aVZs&list=PL6QREj8te1P6CkO_4OIK1-nwG5OxCD5tR&index=7) on Youtube for the course
